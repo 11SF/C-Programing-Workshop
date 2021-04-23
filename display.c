@@ -13,4 +13,5 @@ int main()
     printf("integer is \t%d \nfloat is \t%f \ndouble is \t%.3lf\n",a,b,c);
     // \t : tab
     // \n : new line
+    return 0;
 }
