@@ -14,4 +14,13 @@ int main()
     // \t : tab
     // \n : new line
     return 0;
+
+    /* run
+    input   :   
+                1 2 3
+    output  : 
+                integer is      1 
+                float is        2.000000 
+                double is       3.000
+    */
 }
